@@ -49,7 +49,7 @@ nav {
   list-style: none;
   position: absolute;
   left: 50%;
-  transition: 0.7s ease transform;
+  transition: 0.4s ease transform;
   height: 580px;
   width: 400px;
   background: #7085A1;
@@ -295,7 +295,7 @@ footer .footer-2 span {
 
 @media (max-width: 767px) {
   .planes {
-    padding: 40px 0 0 0 ;
+    padding: 40px 0 0 0;
   }
 
   .buscador .searchbar:hover > .search_input {
